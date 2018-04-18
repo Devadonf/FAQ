@@ -1,2 +1,2 @@
 # FAQ
-Foire au questions
+Foire aux questions
