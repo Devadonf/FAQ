@@ -8,7 +8,7 @@ sudo apt-get install nodejs npm
 ## Display the current git branch in the prompt ?
 1. Download the Git's source code [here](https://github.com/git/git).
 2. Copy the **contrib/completion/git-prompt.sh** file to your home directory.
-3. Edit the .bashrc file like this :
+3. Edit the **.bashrc** file like this :
   ```
 . ~/git-prompt.sh
 if [ "$color_prompt" = yes ]; then
@@ -18,8 +18,6 @@ else
 fi
   ```
 4. (Optional) Change the color: see this [link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
-5. To apply modifications run:
+5. To apply modifications run: **source .bashrc**
 
-source .bashrc
-
-Learn [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+Learn more [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
