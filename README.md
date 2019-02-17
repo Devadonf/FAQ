@@ -1,8 +1,9 @@
 # How to ...
 
 ## Comment installer node.js sous Ubuntu ?
-* sudo apt-get update
-* sudo apt-get install nodejs npm
+sudo apt-get update
+
+sudo apt-get install nodejs npm
 
 ## Display the current git branch in the prompt ?
 1. Download the Git's source code [here](https://github.com/git/git).
@@ -16,7 +17,9 @@ else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w $(__git_ps1 "(%s)") \$'
 fi
   ```
-Optional : Change the color
-- See this [link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+4. (Optional) Change the color: see this [link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+5. To apply modifications run:
 
-- Learn [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+source .bashrc
+
+Learn [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
