@@ -17,4 +17,6 @@ else
 fi
   ```
 Optional : Change the color
-See this [link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+- See this [link](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+
+- Learn [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
