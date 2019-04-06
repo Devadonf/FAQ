@@ -21,3 +21,6 @@ fi
 5. To apply modifications run: **source .bashrc**
 
 Learn more [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+
+## Installation et optimisation de Ubuntu sur Macbook
+Read [this](https://linuxnewbieguide.org/how-to-install-ubuntu-18-10-on-a-macbook-pro-video/)
